@@ -1,0 +1,16 @@
+🚀 Agent-21 Scout starting at 2025-08-23 06:00:01.578695
+🔍 Scouting python jobs...
+❌ Remotive API error for python: HTTPSConnectionPool(host='remotive.com', port=443): Read timed out. (read timeout=15)
+❌ Amazon Jobs API error: 500 Server Error: Internal Server Error for url: https://www.amazon.jobs/en/search.json?radius=24km&facets=%7B%22location%22%3A+%5B%22virtual-location-TELECOMMUTE%22%5D%2C+%22business_category%22%3A+%5B%22amazon-web-services%22%5D%7D&hits=20&start=0&query=python+django+flask+fastapi
+🔍 Scouting aws jobs...
+❌ Remotive API error for aws: HTTPSConnectionPool(host='remotive.com', port=443): Read timed out. (read timeout=15)
+❌ Amazon Jobs API error: 500 Server Error: Internal Server Error for url: https://www.amazon.jobs/en/search.json?radius=24km&facets=%7B%22location%22%3A+%5B%22virtual-location-TELECOMMUTE%22%5D%2C+%22business_category%22%3A+%5B%22amazon-web-services%22%5D%7D&hits=20&start=0&query=aws+cloud+devops+kubernetes
+🔍 Scouting javascript jobs...
+❌ Remotive API error for javascript: HTTPSConnectionPool(host='remotive.com', port=443): Read timed out. (read timeout=15)
+❌ Amazon Jobs API error: 500 Server Error: Internal Server Error for url: https://www.amazon.jobs/en/search.json?radius=24km&facets=%7B%22location%22%3A+%5B%22virtual-location-TELECOMMUTE%22%5D%2C+%22business_category%22%3A+%5B%22amazon-web-services%22%5D%7D&hits=20&start=0&query=javascript+react+node+typescript
+🔍 Scouting data jobs...
+❌ Amazon Jobs API error: 500 Server Error: Internal Server Error for url: https://www.amazon.jobs/en/search.json?radius=24km&facets=%7B%22location%22%3A+%5B%22virtual-location-TELECOMMUTE%22%5D%2C+%22business_category%22%3A+%5B%22amazon-web-services%22%5D%7D&hits=20&start=0&query=data-science+machine-learning+ai
+🔍 Scouting backend jobs...
+❌ Remotive API error for backend: HTTPSConnectionPool(host='remotive.com', port=443): Read timed out. (read timeout=15)
+❌ Amazon Jobs API error: 500 Server Error: Internal Server Error for url: https://www.amazon.jobs/en/search.json?radius=24km&facets=%7B%22location%22%3A+%5B%22virtual-location-TELECOMMUTE%22%5D%2C+%22business_category%22%3A+%5B%22amazon-web-services%22%5D%7D&hits=20&start=0&query=backend+api+microservices
+✅ Agent-21 Scout completed. Found 10 jobs.
