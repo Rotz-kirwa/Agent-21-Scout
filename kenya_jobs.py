@@ -102,6 +102,104 @@ def fetch_worldwide_remote_jobs():
             "url": "https://www.skillshare.com/teach",
             "source": "Skillshare",
             "salary": "Revenue Share"
+        },
+        # Amazon-related Remote Opportunities
+        {
+            "title": "Amazon FBA Virtual Assistant",
+            "company": "Various Amazon Sellers",
+            "location": "Remote - Worldwide",
+            "url": "https://www.upwork.com/freelance-jobs/amazon-fba/",
+            "source": "Upwork",
+            "salary": "$10-30/hour"
+        },
+        {
+            "title": "AWS Cloud Support Associate",
+            "company": "Amazon Web Services",
+            "location": "Remote - Global",
+            "url": "https://www.amazon.jobs/en/search?base_query=cloud+support&loc_query=",
+            "source": "Amazon Jobs",
+            "salary": "$40-70k/year"
+        },
+        # Major Remote-First Companies (Kenya-Friendly)
+        {
+            "title": "Software Engineer",
+            "company": "GitLab",
+            "location": "Remote - Worldwide",
+            "url": "https://about.gitlab.com/jobs/",
+            "source": "GitLab",
+            "salary": "$70-130k/year"
+        },
+        {
+            "title": "Happiness Engineer",
+            "company": "Automattic",
+            "location": "Remote - Worldwide",
+            "url": "https://automattic.com/work-with-us/",
+            "source": "Automattic",
+            "salary": "$50-80k/year"
+        },
+        {
+            "title": "Customer Champion",
+            "company": "Zapier",
+            "location": "Remote - Worldwide",
+            "url": "https://zapier.com/jobs",
+            "source": "Zapier",
+            "salary": "$45-75k/year"
+        },
+        {
+            "title": "Software Developer",
+            "company": "Andela",
+            "location": "Remote - 135+ Countries",
+            "url": "https://andela.com/careers/",
+            "source": "Andela",
+            "salary": "$30-80k/year"
+        },
+        {
+            "title": "Content Creator",
+            "company": "Buffer",
+            "location": "Remote - Worldwide",
+            "url": "https://buffer.com/journey",
+            "source": "Buffer",
+            "salary": "$40-70k/year"
+        },
+        {
+            "title": "Mobile Developer",
+            "company": "Doist",
+            "location": "Remote - Worldwide",
+            "url": "https://doist.com/careers",
+            "source": "Doist",
+            "salary": "$60-100k/year"
+        },
+        {
+            "title": "Customer Success Manager",
+            "company": "Remote.com",
+            "location": "Remote - Worldwide",
+            "url": "https://remote.com/careers",
+            "source": "Remote.com",
+            "salary": "$45-75k/year"
+        },
+        {
+            "title": "Account Executive",
+            "company": "Deel",
+            "location": "Remote - 100+ Countries",
+            "url": "https://www.deel.com/careers",
+            "source": "Deel",
+            "salary": "$50-100k/year"
+        },
+        {
+            "title": "Customer Support Specialist",
+            "company": "Binance",
+            "location": "Remote - Worldwide",
+            "url": "https://www.binance.com/en/careers",
+            "source": "Binance",
+            "salary": "$25-50k/year"
+        },
+        {
+            "title": "Community Relations Specialist",
+            "company": "Wikimedia Foundation",
+            "location": "Remote - Worldwide",
+            "url": "https://wikimediafoundation.org/about/jobs/",
+            "source": "Wikimedia",
+            "salary": "$45-80k/year"
         }
     ]
     return jobs

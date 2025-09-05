@@ -1,0 +1,271 @@
+{
+  "timestamp": "2025-09-05T14:22:40.121190",
+  "summary": {
+    "total_sources": 43,
+    "successful": 30,
+    "warnings": 13,
+    "failed": 0,
+    "total_jobs": 144,
+    "total_time": 28.645769357681274
+  },
+  "detailed_results": {
+    "fetch_remotive_jobs": {
+      "status": "WARNING",
+      "job_count": 0,
+      "execution_time": 16.0739963054657,
+      "error": "Function returned empty list"
+    },
+    "fetch_reliable_jobs": {
+      "status": "SUCCESS",
+      "job_count": 2,
+      "execution_time": 1.5497207641601562e-05,
+      "error": null
+    },
+    "fetch_wellfound_jobs": {
+      "status": "WARNING",
+      "job_count": 0,
+      "execution_time": 0.9121036529541016,
+      "error": "Function returned empty list"
+    },
+    "fetch_nowhiteboard_jobs": {
+      "status": "WARNING",
+      "job_count": 0,
+      "execution_time": 0.9079074859619141,
+      "error": "Function returned empty list"
+    },
+    "fetch_workingnomads_jobs": {
+      "status": "SUCCESS",
+      "job_count": 2,
+      "execution_time": 6.590860605239868,
+      "error": null
+    },
+    "fetch_amazon_jobs": {
+      "status": "SUCCESS",
+      "job_count": 4,
+      "execution_time": 5.7220458984375e-05,
+      "error": null
+    },
+    "fetch_amazon_aws_jobs": {
+      "status": "SUCCESS",
+      "job_count": 3,
+      "execution_time": 1.33514404296875e-05,
+      "error": null
+    },
+    "fetch_static_jobs": {
+      "status": "SUCCESS",
+      "job_count": 3,
+      "execution_time": 4.38690185546875e-05,
+      "error": null
+    },
+    "fetch_flexjobs_api": {
+      "status": "SUCCESS",
+      "job_count": 2,
+      "execution_time": 4.482269287109375e-05,
+      "error": null
+    },
+    "fetch_gitlab_jobs": {
+      "status": "SUCCESS",
+      "job_count": 2,
+      "execution_time": 1.8059711456298828,
+      "error": null
+    },
+    "fetch_automattic_jobs": {
+      "status": "SUCCESS",
+      "job_count": 3,
+      "execution_time": 1.430511474609375e-05,
+      "error": null
+    },
+    "fetch_zapier_jobs": {
+      "status": "WARNING",
+      "job_count": 0,
+      "execution_time": 1.5488791465759277,
+      "error": "Function returned empty list"
+    },
+    "fetch_buffer_jobs": {
+      "status": "SUCCESS",
+      "job_count": 1,
+      "execution_time": 1.6927719116210938e-05,
+      "error": null
+    },
+    "fetch_doist_jobs": {
+      "status": "SUCCESS",
+      "job_count": 2,
+      "execution_time": 3.218650817871094e-05,
+      "error": null
+    },
+    "fetch_remote_com_jobs": {
+      "status": "SUCCESS",
+      "job_count": 2,
+      "execution_time": 4.9591064453125e-05,
+      "error": null
+    },
+    "fetch_deel_jobs": {
+      "status": "WARNING",
+      "job_count": 0,
+      "execution_time": 0.8048701286315918,
+      "error": "Function returned empty list"
+    },
+    "fetch_andela_jobs": {
+      "status": "SUCCESS",
+      "job_count": 3,
+      "execution_time": 2.193450927734375e-05,
+      "error": null
+    },
+    "fetch_crypto_jobs": {
+      "status": "SUCCESS",
+      "job_count": 3,
+      "execution_time": 5.7220458984375e-05,
+      "error": null
+    },
+    "fetch_wikimedia_jobs": {
+      "status": "SUCCESS",
+      "job_count": 2,
+      "execution_time": 2.6226043701171875e-05,
+      "error": null
+    },
+    "fetch_customer_support_jobs": {
+      "status": "SUCCESS",
+      "job_count": 13,
+      "execution_time": 4.863739013671875e-05,
+      "error": null
+    },
+    "fetch_operations_hr_jobs": {
+      "status": "SUCCESS",
+      "job_count": 9,
+      "execution_time": 1.7881393432617188e-05,
+      "error": null
+    },
+    "fetch_finance_jobs": {
+      "status": "SUCCESS",
+      "job_count": 7,
+      "execution_time": 4.029273986816406e-05,
+      "error": null
+    },
+    "fetch_technical_writing_jobs": {
+      "status": "SUCCESS",
+      "job_count": 10,
+      "execution_time": 2.9802322387695312e-05,
+      "error": null
+    },
+    "fetch_bpo_outsourcing_jobs": {
+      "status": "SUCCESS",
+      "job_count": 11,
+      "execution_time": 1.9311904907226562e-05,
+      "error": null
+    },
+    "fetch_ai_training_jobs": {
+      "status": "SUCCESS",
+      "job_count": 10,
+      "execution_time": 2.8371810913085938e-05,
+      "error": null
+    },
+    "fetch_freelance_gig_jobs": {
+      "status": "SUCCESS",
+      "job_count": 6,
+      "execution_time": 1.7642974853515625e-05,
+      "error": null
+    },
+    "fetch_va_support_jobs": {
+      "status": "SUCCESS",
+      "job_count": 8,
+      "execution_time": 1.5020370483398438e-05,
+      "error": null
+    },
+    "fetch_social_media_platform_jobs": {
+      "status": "WARNING",
+      "job_count": 0,
+      "execution_time": 1.7881393432617188e-05,
+      "error": "Function returned empty list"
+    },
+    "fetch_customer_support_platform_jobs": {
+      "status": "WARNING",
+      "job_count": 0,
+      "execution_time": 1.7404556274414062e-05,
+      "error": "Function returned empty list"
+    },
+    "fetch_ad_review_specialist_jobs": {
+      "status": "WARNING",
+      "job_count": 0,
+      "execution_time": 1.7881393432617188e-05,
+      "error": "Function returned empty list"
+    },
+    "fetch_data_labeling_specialist_jobs": {
+      "status": "WARNING",
+      "job_count": 0,
+      "execution_time": 1.4543533325195312e-05,
+      "error": "Function returned empty list"
+    },
+    "fetch_comprehensive_platform_jobs": {
+      "status": "SUCCESS",
+      "job_count": 8,
+      "execution_time": 1.9073486328125e-05,
+      "error": null
+    },
+    "fetch_creator_economy_jobs": {
+      "status": "WARNING",
+      "job_count": 0,
+      "execution_time": 2.4557113647460938e-05,
+      "error": "Function returned empty list"
+    },
+    "fetch_gaming_platform_jobs": {
+      "status": "WARNING",
+      "job_count": 0,
+      "execution_time": 3.409385681152344e-05,
+      "error": "Function returned empty list"
+    },
+    "fetch_chat_moderation_jobs": {
+      "status": "WARNING",
+      "job_count": 0,
+      "execution_time": 4.863739013671875e-05,
+      "error": "Function returned empty list"
+    },
+    "fetch_social_platform_extended_jobs": {
+      "status": "WARNING",
+      "job_count": 0,
+      "execution_time": 1.6689300537109375e-05,
+      "error": "Function returned empty list"
+    },
+    "fetch_sample_specialized_jobs": {
+      "status": "SUCCESS",
+      "job_count": 10,
+      "execution_time": 0.00017571449279785156,
+      "error": null
+    },
+    "fetch_sales_bizdev_jobs": {
+      "status": "SUCCESS",
+      "job_count": 3,
+      "execution_time": 4.553794860839844e-05,
+      "error": null
+    },
+    "fetch_product_management_jobs": {
+      "status": "SUCCESS",
+      "job_count": 3,
+      "execution_time": 3.147125244140625e-05,
+      "error": null
+    },
+    "fetch_ecommerce_jobs": {
+      "status": "SUCCESS",
+      "job_count": 3,
+      "execution_time": 2.3603439331054688e-05,
+      "error": null
+    },
+    "fetch_healthcare_remote_jobs": {
+      "status": "SUCCESS",
+      "job_count": 3,
+      "execution_time": 1.8358230590820312e-05,
+      "error": null
+    },
+    "fetch_translation_jobs": {
+      "status": "SUCCESS",
+      "job_count": 3,
+      "execution_time": 1.7881393432617188e-05,
+      "error": null
+    },
+    "fetch_research_survey_jobs": {
+      "status": "SUCCESS",
+      "job_count": 3,
+      "execution_time": 4.744529724121094e-05,
+      "error": null
+    }
+  }
+}
