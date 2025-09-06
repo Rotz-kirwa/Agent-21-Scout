@@ -1,0 +1,611 @@
+{
+  "api_status": {
+    "GitLab API": {
+      "status": "no_results",
+      "jobs": 0
+    },
+    "Automattic API": {
+      "status": "working",
+      "jobs": 2
+    },
+    "Zapier API": {
+      "status": "no_results",
+      "jobs": 0
+    },
+    "Buffer API": {
+      "status": "working",
+      "jobs": 1
+    },
+    "Doist API": {
+      "status": "working",
+      "jobs": 2
+    },
+    "Remote.com API": {
+      "status": "working",
+      "jobs": 1
+    },
+    "Deel API": {
+      "status": "no_results",
+      "jobs": 0
+    },
+    "FlexJobs API": {
+      "status": "no_results",
+      "jobs": 0
+    },
+    "Remotive API": {
+      "status": "working",
+      "jobs": 2
+    },
+    "Wellfound API": {
+      "status": "no_results",
+      "jobs": 0
+    },
+    "NoWhiteboard API": {
+      "status": "no_results",
+      "jobs": 0
+    },
+    "WorkingNomads API": {
+      "status": "working",
+      "jobs": 1
+    },
+    "Amazon AWS Jobs": {
+      "status": "working",
+      "jobs": 3
+    },
+    "Major Remote Companies": {
+      "status": "working",
+      "jobs": "N/A"
+    },
+    "Beginner Friendly Jobs": {
+      "status": "working",
+      "jobs": "N/A"
+    },
+    "BPO Gig Opportunities": {
+      "status": "working",
+      "jobs": "N/A"
+    },
+    "Platform Specific Jobs": {
+      "status": "working",
+      "jobs": "N/A"
+    }
+  },
+  "category_performance": {
+    "software-dev": {
+      "total_jobs": 61,
+      "working_sources": 14,
+      "failed_sources": 0,
+      "keywords": [
+        "developer",
+        "programming",
+        "software",
+        "remote"
+      ]
+    },
+    "python": {
+      "total_jobs": 2,
+      "working_sources": 1,
+      "failed_sources": 0,
+      "keywords": [
+        "python",
+        "django",
+        "flask",
+        "backend"
+      ]
+    },
+    "javascript": {
+      "total_jobs": 2,
+      "working_sources": 1,
+      "failed_sources": 0,
+      "keywords": [
+        "javascript",
+        "react",
+        "vue",
+        "angular"
+      ]
+    },
+    "mobile": {
+      "total_jobs": 2,
+      "working_sources": 1,
+      "failed_sources": 0,
+      "keywords": [
+        "mobile",
+        "android",
+        "ios",
+        "react-native"
+      ]
+    },
+    "data": {
+      "total_jobs": 33,
+      "working_sources": 5,
+      "failed_sources": 0,
+      "keywords": [
+        "data",
+        "analytics",
+        "machine-learning",
+        "ai"
+      ]
+    },
+    "it-support": {
+      "total_jobs": 22,
+      "working_sources": 3,
+      "failed_sources": 0,
+      "keywords": [
+        "technical-support",
+        "helpdesk",
+        "systems-admin",
+        "it"
+      ]
+    },
+    "virtual-assistant": {
+      "total_jobs": 15,
+      "working_sources": 3,
+      "failed_sources": 0,
+      "keywords": [
+        "virtual-assistant",
+        "executive-assistant",
+        "admin"
+      ]
+    },
+    "content-writing": {
+      "total_jobs": 11,
+      "working_sources": 2,
+      "failed_sources": 0,
+      "keywords": [
+        "content-writer",
+        "copywriter",
+        "writing",
+        "content"
+      ]
+    },
+    "course-creator": {
+      "total_jobs": 3,
+      "working_sources": 1,
+      "failed_sources": 0,
+      "keywords": [
+        "course-creator",
+        "instructor",
+        "education",
+        "training"
+      ]
+    },
+    "customer-support": {
+      "total_jobs": 43,
+      "working_sources": 5,
+      "failed_sources": 0,
+      "keywords": [
+        "customer-support",
+        "customer-success",
+        "community-manager",
+        "technical-support"
+      ]
+    },
+    "operations-hr": {
+      "total_jobs": 17,
+      "working_sources": 2,
+      "failed_sources": 0,
+      "keywords": [
+        "recruiter",
+        "hr-specialist",
+        "people-operations",
+        "project-manager"
+      ]
+    },
+    "finance": {
+      "total_jobs": 7,
+      "working_sources": 1,
+      "failed_sources": 0,
+      "keywords": [
+        "finance-analyst",
+        "accountant",
+        "financial-analyst",
+        "bookkeeper"
+      ]
+    },
+    "technical-writing": {
+      "total_jobs": 10,
+      "working_sources": 1,
+      "failed_sources": 0,
+      "keywords": [
+        "technical-writer",
+        "documentation",
+        "copywriter",
+        "blog-writer"
+      ]
+    },
+    "bpo-outsourcing": {
+      "total_jobs": 23,
+      "working_sources": 3,
+      "failed_sources": 0,
+      "keywords": [
+        "content-moderator",
+        "support-agent",
+        "trust-safety",
+        "ad-reviewer"
+      ]
+    },
+    "ai-training": {
+      "total_jobs": 27,
+      "working_sources": 4,
+      "failed_sources": 0,
+      "keywords": [
+        "data-annotation",
+        "ai-training",
+        "rater",
+        "labeling",
+        "microtasks"
+      ]
+    },
+    "freelance-gig": {
+      "total_jobs": 18,
+      "working_sources": 3,
+      "failed_sources": 0,
+      "keywords": [
+        "freelance",
+        "gig",
+        "virtual-assistant",
+        "small-tasks"
+      ]
+    },
+    "content-moderation": {
+      "total_jobs": 23,
+      "working_sources": 3,
+      "failed_sources": 0,
+      "keywords": [
+        "content-moderator",
+        "community-moderation",
+        "social-media-evaluator"
+      ]
+    },
+    "social-media-tasks": {
+      "total_jobs": 12,
+      "working_sources": 2,
+      "failed_sources": 0,
+      "keywords": [
+        "tiktok-moderator",
+        "youtube-reviewer",
+        "facebook-support",
+        "instagram-safety"
+      ]
+    },
+    "platform-support": {
+      "total_jobs": 12,
+      "working_sources": 2,
+      "failed_sources": 0,
+      "keywords": [
+        "platform-support",
+        "user-safety",
+        "community-operations",
+        "engagement-monitoring"
+      ]
+    },
+    "ad-review-specialist": {
+      "total_jobs": 11,
+      "working_sources": 1,
+      "failed_sources": 0,
+      "keywords": [
+        "ad-reviewer",
+        "advertising-compliance",
+        "campaign-reviewer",
+        "promotional-content"
+      ]
+    },
+    "data-labeling": {
+      "total_jobs": 10,
+      "working_sources": 1,
+      "failed_sources": 0,
+      "keywords": [
+        "image-labeling",
+        "video-annotation",
+        "text-classification",
+        "audio-transcription"
+      ]
+    },
+    "creator-economy": {
+      "total_jobs": 18,
+      "working_sources": 4,
+      "failed_sources": 0,
+      "keywords": [
+        "creator-support",
+        "account-manager",
+        "social-media-manager",
+        "content-assistant"
+      ]
+    },
+    "gaming-platforms": {
+      "total_jobs": 15,
+      "working_sources": 3,
+      "failed_sources": 0,
+      "keywords": [
+        "gaming-moderator",
+        "player-support",
+        "community-manager",
+        "esports-support"
+      ]
+    },
+    "chat-moderation": {
+      "total_jobs": 12,
+      "working_sources": 2,
+      "failed_sources": 0,
+      "keywords": [
+        "chat-moderator",
+        "community-moderator",
+        "engagement-specialist",
+        "live-chat-support"
+      ]
+    },
+    "creator-platforms": {
+      "total_jobs": 15,
+      "working_sources": 3,
+      "failed_sources": 0,
+      "keywords": [
+        "patreon-support",
+        "twitch-moderator",
+        "discord-moderator",
+        "creator-assistant"
+      ]
+    },
+    "basic-customer-support": {
+      "total_jobs": 40,
+      "working_sources": 4,
+      "failed_sources": 0,
+      "keywords": [
+        "customer-support",
+        "chat-support",
+        "email-support",
+        "helpdesk",
+        "live-chat"
+      ]
+    },
+    "basic-content-moderation": {
+      "total_jobs": 23,
+      "working_sources": 3,
+      "failed_sources": 0,
+      "keywords": [
+        "content-moderator",
+        "community-moderator",
+        "social-media-moderator",
+        "chat-moderator"
+      ]
+    },
+    "basic-data-entry": {
+      "total_jobs": 24,
+      "working_sources": 3,
+      "failed_sources": 0,
+      "keywords": [
+        "data-entry",
+        "microtasks",
+        "surveys",
+        "basic-annotation",
+        "clickworker"
+      ]
+    },
+    "basic-virtual-assistant": {
+      "total_jobs": 14,
+      "working_sources": 2,
+      "failed_sources": 0,
+      "keywords": [
+        "virtual-assistant",
+        "admin-assistant",
+        "scheduling",
+        "email-management"
+      ]
+    },
+    "advanced-customer-support": {
+      "total_jobs": 21,
+      "working_sources": 2,
+      "failed_sources": 0,
+      "keywords": [
+        "technical-support",
+        "customer-success",
+        "account-manager",
+        "support-specialist"
+      ]
+    },
+    "platform-moderation": {
+      "total_jobs": 23,
+      "working_sources": 3,
+      "failed_sources": 0,
+      "keywords": [
+        "tiktok-moderator",
+        "facebook-moderator",
+        "youtube-reviewer",
+        "instagram-safety",
+        "trust-safety"
+      ]
+    },
+    "ai-training-evaluation": {
+      "total_jobs": 4,
+      "working_sources": 1,
+      "failed_sources": 0,
+      "keywords": [
+        "search-evaluator",
+        "ads-evaluator",
+        "ai-rater",
+        "content-evaluator",
+        "social-media-evaluator"
+      ]
+    },
+    "gaming-community": {
+      "total_jobs": 15,
+      "working_sources": 3,
+      "failed_sources": 0,
+      "keywords": [
+        "gaming-moderator",
+        "player-support",
+        "community-manager",
+        "esports-support"
+      ]
+    },
+    "creator-economy-support": {
+      "total_jobs": 18,
+      "working_sources": 4,
+      "failed_sources": 0,
+      "keywords": [
+        "creator-support",
+        "account-manager",
+        "fan-engagement",
+        "content-assistant",
+        "social-media-manager"
+      ]
+    },
+    "advanced-ai-data": {
+      "total_jobs": 23,
+      "working_sources": 3,
+      "failed_sources": 0,
+      "keywords": [
+        "prompt-engineering",
+        "ai-training",
+        "machine-learning",
+        "data-annotation",
+        "model-training"
+      ]
+    },
+    "linguistic-specialist": {
+      "total_jobs": 10,
+      "working_sources": 1,
+      "failed_sources": 0,
+      "keywords": [
+        "linguistic-annotation",
+        "translation-evaluation",
+        "grammar-analysis",
+        "language-quality"
+      ]
+    },
+    "technical-moderation": {
+      "total_jobs": 8,
+      "working_sources": 1,
+      "failed_sources": 0,
+      "keywords": [
+        "trust-safety-specialist",
+        "policy-specialist",
+        "content-reviewer",
+        "safety-analyst"
+      ]
+    },
+    "advanced-data-labeling": {
+      "total_jobs": 10,
+      "working_sources": 1,
+      "failed_sources": 0,
+      "keywords": [
+        "3d-labeling",
+        "autonomous-vehicle",
+        "medical-annotation",
+        "technical-annotation"
+      ]
+    },
+    "freelance-ai-tech": {
+      "total_jobs": 18,
+      "working_sources": 2,
+      "failed_sources": 0,
+      "keywords": [
+        "ai-consultant",
+        "ml-freelancer",
+        "prompt-engineer",
+        "dataset-specialist"
+      ]
+    },
+    "microtasks-gig": {
+      "total_jobs": 20,
+      "working_sources": 3,
+      "failed_sources": 0,
+      "keywords": [
+        "microtasks",
+        "small-tasks",
+        "gig-work",
+        "project-based",
+        "flexible-hours"
+      ]
+    },
+    "research-testing": {
+      "total_jobs": 4,
+      "working_sources": 1,
+      "failed_sources": 0,
+      "keywords": [
+        "user-testing",
+        "research-studies",
+        "product-feedback",
+        "usability-testing"
+      ]
+    },
+    "sales-bizdev": {
+      "total_jobs": 3,
+      "working_sources": 1,
+      "failed_sources": 0,
+      "keywords": [
+        "sales",
+        "account-executive",
+        "business-development",
+        "lead-generation",
+        "sales-rep"
+      ]
+    },
+    "product-management": {
+      "total_jobs": 7,
+      "working_sources": 2,
+      "failed_sources": 0,
+      "keywords": [
+        "product-manager",
+        "product-owner",
+        "roadmap",
+        "agile",
+        "scrum-master"
+      ]
+    },
+    "ecommerce": {
+      "total_jobs": 11,
+      "working_sources": 2,
+      "failed_sources": 0,
+      "keywords": [
+        "shopify",
+        "woocommerce",
+        "amazon-va",
+        "store-manager",
+        "ecommerce-support",
+        "dropshipping"
+      ]
+    },
+    "healthcare-remote": {
+      "total_jobs": 21,
+      "working_sources": 3,
+      "failed_sources": 0,
+      "keywords": [
+        "telehealth",
+        "medical-transcription",
+        "medical-billing",
+        "healthcare-support",
+        "medical-coding"
+      ]
+    },
+    "translation-localization": {
+      "total_jobs": 11,
+      "working_sources": 2,
+      "failed_sources": 0,
+      "keywords": [
+        "translator",
+        "localization",
+        "linguist",
+        "language-specialist",
+        "interpretation"
+      ]
+    },
+    "research-surveys": {
+      "total_jobs": 17,
+      "working_sources": 3,
+      "failed_sources": 0,
+      "keywords": [
+        "online-research",
+        "survey-taker",
+        "data-collection",
+        "study-participant",
+        "market-research"
+      ]
+    }
+  },
+  "summary": {
+    "working_apis": 11,
+    "failed_apis": 0,
+    "working_categories": 47,
+    "empty_categories": 0,
+    "success_rate": 90.625
+  }
+}
